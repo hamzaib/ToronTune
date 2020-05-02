@@ -1,0 +1,49 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.7",
+    "deprecated-react-native-listview": "^0.0.6",
+    "expo": "~36.0.0",
+    "expo-barcode-scanner": "~8.0.0",
+    "expo-image-picker": "~8.0.1",
+    "firebase": "^7.10.0",
+    "native-base": "^2.13.8",
+    "react": "~16.9.0",
+    "react-autosuggest": "^9.4.3",
+    "react-autowhatever": "^10.2.1",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-app-intro-slider": "^4.0.0",
+    "react-native-autocomplete-input": "^4.1.0",
+    "react-native-autocomplete-search": "^1.0.8",
+    "react-native-autosuggest": "^1.0.1",
+    "react-native-elements": "^1.2.7",
+    "react-native-email": "^1.0.2",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-ionicons": "^5.0.0-beta",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-modal": "^11.5.5",
+    "react-native-paper": "^3.6.0",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-search-filter": "^0.1.5",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.2.2",
+    "react-navigation-stack": "^2.3.4",
+    "react-navigation-tabs": "^2.8.2",
+    "react-navigation-transitions": "^1.0.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "babel-preset-expo": "~8.0.0"
+  },
+  "private": true
+}
